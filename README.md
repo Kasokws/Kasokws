@@ -1,6 +1,6 @@
 # :warning: ...EM DESENVOLVIMENTO... :warning:
 
-05/07/2022
+★ 05/07/2022 ★
 
 ### Olá, me chamo Jorge Kasokws...
 
@@ -9,6 +9,8 @@
 :exclamation: ***O objetivo:*** **se tornar um web dev em 6 meses.** :eagle:
 
 :exclamation: ***O plano:*** **praticar, praticar, praticar e praticar. A prática leva à perfeição!** :owl:
+
+:exclamation: ***O progresso atual:*** **[você confere aqui!](https://github.com/Kasokws)**
 
 :exclamation: ***Hard skills:*** :turkey:
 
