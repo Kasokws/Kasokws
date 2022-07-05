@@ -28,4 +28,10 @@
 
 # . . .
 
+##### Usuário Linux desde 2021
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35px" height="35px" />
+
+# . . .
+
 > No que diz respeito ao empenho, ao compromisso, ao esforço, à dedicação, não existe meio termo. Ou você faz uma coisa bem feita ou não faz. - Ayrton Senna
