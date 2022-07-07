@@ -1,16 +1,16 @@
-# :warning: ...EM DESENVOLVIMENTO... :warning:
+# :warning: ...UNDER DEVELOPMENT... :warning:
 
 ★ 05/07/2022 ★
 
-### Olá, me chamo Jorge Kasokws...
+### Hi! My name's Jorge, a.k.a Kasokws...
 
-***...estou cursando Análise e Desenvolvimento de Sistemas, estudando web development e busco crescer profissionalmente.***
+***...I'm a System Analyst and Developer and web developer.***
 
-:exclamation: ***O objetivo:*** **se tornar um web dev em 6 meses.** :eagle:
+:exclamation: ***The goal:*** **get hired by a technology company** :eagle:
 
-:exclamation: ***O plano:*** **praticar, praticar, praticar e praticar. A prática leva à perfeição!** :owl:
+:exclamation: ***The plan:*** **Pratice, pratice and pratice. Pratice leads to perfection!** :owl:
 
-:exclamation: ***O progresso atual:*** **[você confere aqui!](https://github.com/Kasokws)**
+:exclamation: ***The progress:*** **[check it out!](https://github.com/Kasokws)**
 
 :exclamation: ***Hard skills:*** :turkey:
 
@@ -20,7 +20,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" height="35px" />
 
-:exclamation: ***Em breve:*** :peacock:
+:exclamation: ***coming soon:*** :peacock:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35px" height="35px" />
 
@@ -28,10 +28,10 @@
 
 # . . .
 
-##### Usuário Linux desde 2021
+##### Linux user since 2021...
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35px" height="35px" />
 
 # . . .
 
-> No que diz respeito ao empenho, ao compromisso, ao esforço, à dedicação, não existe meio termo. Ou você faz uma coisa bem feita ou não faz. - Ayrton Senna
+> With regard to commitment, effort, dedication, there is no middle ground. Either you do something well or you don't. - Ayrton Senna
